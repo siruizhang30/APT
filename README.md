@@ -9,24 +9,24 @@
 </p>
 
 <div align="center">
-  <a href="mailto:zsr200901@mail.ustc.edu.cn">Sirui Zhang</a><sup>1,2*</sup>&nbsp;&nbsp;
+  <a href="https://github.com/siruizhang30">Sirui Zhang</a><sup>1,2*</sup>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/research/people/fawe/">Fangyun Wei</a><sup>2</sup>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/research/people/doch/">Dong Chen</a><sup>2</sup>&nbsp;&nbsp;
-  <a href="#">Jinjing Zhao</a><sup>3</sup><br>
-  <a href="#">Yitong Wang</a><sup>4</sup>&nbsp;&nbsp;
-  <a href="#">Yunuo Chen</a><sup>5</sup>&nbsp;&nbsp;
-  <a href="#">Baining Guo</a><sup>2</sup>&nbsp;&nbsp;
-  <a href="mailto:zhazj@mail.ustc.edu.cn">Zheng-Jun Zha</a><sup>1</sup><sup>&dagger;</sup>
+  <a href="https://github.com/ZhaoJingjing713">Jinjing Zhao</a><sup>3</sup><br>
+  <a href="https://github.com/snowflakewang">Yitong Wang</a><sup>4</sup>&nbsp;&nbsp;
+  <a href="https://unoc-727.github.io/">Yunuo Chen</a><sup>5</sup>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/research/people/bainguo/">Baining Guo</a><sup>2</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=gDnBC1gAAAAJ&amp;hl=en">Zheng-Jun Zha</a><sup>1</sup><sup>&dagger;</sup>
 </div>
 
 <p align="center" style="font-size: 0.9em;">
   <br>
-  <sup>1</sup><a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a>&nbsp;&nbsp;
-  <sup>2</sup><a href="https://www.microsoft.com/en-us/research/">Microsoft Research Asia</a><br>
-  <sup>3</sup><a href="https://www.sydney.edu.au/">University of Sydney</a>&nbsp;&nbsp;
-  <sup>4</sup><a href="https://www.fudan.edu.cn/en/">Fudan University</a>&nbsp;&nbsp;
-  <sup>5</sup><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
-  <br>
+  <sup>1</sup>University of Science and Technology of China&nbsp;&nbsp;
+  <sup>2</sup>Microsoft Research Asia<br>
+  <sup>3</sup>University of Sydney&nbsp;&nbsp;
+  <sup>4</sup>Fudan University&nbsp;&nbsp;
+  <sup>5</sup>Shanghai Jiao Tong University
+  <br><br>
   <small><sup>*</sup>Work done during internship at MSRA.</small>
   <small><sup>&dagger;</sup>Corresponding Author</small>
 </p>
@@ -128,6 +128,10 @@ GenEval and DPG report overall scores; OneIG-EN reports its average; GenEval2 re
 | LongCat-Image | 56.04 | 55.19 | 56.13 | **57.07** |
 
 The average uses **GenEval, OneIG-EN, and GenEval2**, with GenEval and OneIG-EN rescaled to 0–100. The diagonal setting achieves the **best average for every target model**, supporting the benefit of adapting training data to each model's evolving capabilities.
+
+## ✉️ Contact
+
+For questions about APT, please contact [zsr200901@mail.ustc.edu.cn](mailto:zsr200901@mail.ustc.edu.cn).
 
 ## 🔮 Citation
 
