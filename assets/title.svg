@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="112" viewBox="0 0 1060 112" role="img" aria-labelledby="title">
+  <title id="title">APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation</title>
+  <style>
+    text { fill: #BBBEBF; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; font-size: 38px; font-weight: 700; }
+    .accent { fill: #52734d; }
+  </style>
+  <text x="530" y="43" text-anchor="middle"><tspan class="accent" font-style="italic">APT</tspan>: Feedback-Driven <tspan class="accent">A</tspan>gentic <tspan class="accent">P</tspan>ost-<tspan class="accent">T</tspan>raining</text>
+  <text x="530" y="94" text-anchor="middle">for Text-to-Image Generation</text>
+</svg>
