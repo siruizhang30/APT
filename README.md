@@ -26,9 +26,9 @@
   <sup>3</sup>University of Sydney&nbsp;&nbsp;
   <sup>4</sup>Fudan University&nbsp;&nbsp;
   <sup>5</sup>Shanghai Jiao Tong University
-  <br><br>
-  <small><sup>*</sup>Work done during internship at MSRA.</small>
-  <small><sup>&dagger;</sup>Corresponding Author</small>
+  <br>
+  <sub><sup>*</sup>Work done during internship at MSRA.</sub>
+  <sub><sup>&dagger;</sup>Corresponding Author</sub>
 </p>
 
 <p align="center">
